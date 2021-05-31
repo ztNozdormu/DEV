@@ -1,3 +1,3 @@
-git config --global user.name "w1999wtw3537@sina.com"
+git config --global user.name "ztNozdormu"
 git config --global user.email "w1999wtw3537@sina.com"
 git clone https://github.com/ztNozdormu/DEV.git
